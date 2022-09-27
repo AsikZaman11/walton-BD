@@ -1,0 +1,45 @@
+
+		.w1{
+			color:#050A30;
+			margin-left:200px;
+			margin-top:10px;
+			width:200px;
+			}
+			.search{
+					margin-top:12px;
+					margin-left:50px;
+					}
+			.d1{
+				text-align:justify;
+				padding-top:200px;
+				padding-left:30px;
+				padding-right:30px;
+				}
+				.d2{
+					padding:50px;
+					}
+				.f1{
+					color:#0000FF;
+					
+					}
+					.footer{
+							background-color:#FBFBFD;
+							
+							}
+							.ft1{
+							margin-left:40px;
+							margin-right:40px;
+							}
+							.f2{
+								text-align:right;
+								}
+								
+								.icon{
+										margin-top: 10px;
+										margin-right:15px;
+										margin-bottom:10px;
+										}
+								.f3{
+								text-align:center;
+								margin-bottom: 20px;
+								}

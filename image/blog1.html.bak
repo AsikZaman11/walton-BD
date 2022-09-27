@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <link rel="icon" href="logo.png" type="image/x-icon">
+    <title>Walton Group</title>
+	<style>
+			.ff1{
+				width:100%;
+				height:40px;
+				background-color:aqua;
+				}
+			.icon{
+										margin-top: 10px;
+										margin-right:15px;
+										}
+								.f3{
+								text-align:center;
+								margin-bottom: 20px;
+								}
+	</style>
+  </head>
+  <body>
+	
+	
+	<div class="container-fluid">
+	<div class="ff1">
+		<img src="logo-home.png" height="20px" width="30px"><img src="walton logo-update.svg" height="40px" width="80px">
+	<div>
+	<h3>BLOG</h3>
+	<hr>
+	<div class="row">
+        <div class="col-lg-4">
+			<img src="Fridge-Repair.jpg" alt="img" height="200px" width="300px">
+		</div>
+		<div class="col-lg-8">
+		<div class="d1">
+		<h3>How to repair refrigerator at home</h3>
+		<p>A refrigerator (colloquially fridge) is a commercial and home appliance consisting of a thermally insulated compartment and a heat pump (mechanical, electronic or chemical) that transfers heat from its inside to its external environment so that its inside is cooled to a temperature below the room temperature. </p>
+		<span class="badge rounded-pill bg-info text-dark">More</span>
+		</div>
+		</div>
+		</div>
+		
+		<br>
+		<div class="row">
+        <div class="col-lg-4">
+			<img src="oven-cook.jpg" alt="img" height="200px" width="300px">
+		</div>
+		<div class="col-lg-8">
+		<div class="d1">
+		<h3>5 things you should never do with your oven — and 1 thing you should</h3>
+		<p>According to Angie’s List’s appliance repair specialist Dustin Wheeldon, there are six oven facts every cook should be aware of. From self-cleaning don’ts to the right way to catch spills, they’ll save you time, money and possibly even your life.
+
+</p>
+		<span class="badge rounded-pill bg-info text-dark">More</span>
+		</div>
+		</div>
+		</div>
+		
+		<div class="row">
+        <div class="col-lg-4">
+			<img src="frezz.jpg" alt="img" height="200px" width="200px">
+		</div>
+		<div class="col-lg-8">
+		<div class="d1">
+		<h3>Refrigerator</h3>
+		<p>A refrigerator (colloquially fridge) is a commercial and home appliance consisting of a thermally insulated compartment and a heat pump (mechanical, electronic or chemical) that transfers heat from its inside to its external environment so that its inside is cooled to a temperature below the room temperature. </p>
+		<span class="badge rounded-pill bg-info text-dark">More</span>
+		</div>
+		</div>
+		</div>
+		
+		<div class="row">
+        <div class="col-lg-4">
+			<img src="Fridge-Repair.jpg" alt="img" height="200px" width="300px">
+		</div>
+		<div class="col-lg-8">
+		<div class="d1">
+		<h3>How to repair Refrigerator</h3>
+		<p>A refrigerator (colloquially fridge) is a commercial and home appliance consisting of a thermally insulated compartment and a heat pump (mechanical, electronic or chemical) that transfers heat from its inside to its external environment so that its inside is cooled to a temperature below the room temperature. </p>
+		<span class="badge rounded-pill bg-info text-dark">More</span>
+		</div>
+		</div>
+		</div>
+		
+		<div class="row">
+        <div class="col-lg-4">
+			<img src="frezz.jpg" alt="img" height="200px" width="200px">
+		</div>
+		<div class="col-lg-8">
+		<div class="d1">
+		<h3>Refrigerator</h3>
+		<p>A refrigerator (colloquially fridge) is a commercial and home appliance consisting of a thermally insulated compartment and a heat pump (mechanical, electronic or chemical) that transfers heat from its inside to its external environment so that its inside is cooled to a temperature below the room temperature. </p>
+		<span class="badge rounded-pill bg-info text-dark">More</span>
+		</div>
+		</div>
+		</div>
+ 
+	<img src="footer.png" alt="img" width="100%">
+		
+		
+	</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+   
+  </body>
+</html>
